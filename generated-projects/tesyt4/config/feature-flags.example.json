@@ -1,0 +1,12 @@
+{
+  "frontendEnabled": true,
+  "backendEnabled": true,
+  "authNotesEnabled": true,
+  "payfastNotesEnabled": true,
+  "awsAmplifyNotesEnabled": true,
+  "databaseNotesEnabled": true,
+  "securityChecklistEnabled": true,
+  "deploymentNotesEnabled": true,
+  "testingNotesEnabled": true,
+  "cursorNotesEnabled": true
+}
